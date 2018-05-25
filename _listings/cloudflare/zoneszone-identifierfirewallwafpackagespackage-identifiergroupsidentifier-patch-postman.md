@@ -1943,19 +1943,4 @@
             ],
             "body": {
               "mode": "raw"
-            },
-            "description": "Update the state of a rule group"
-          },
-          "response": [
-            {
-              "status": "OK",
-              "code": 200,
-              "name": "Response_200",
-              "id": "db4d385c-1d15-4a05-90ce-c9fc026625ac"
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+         
