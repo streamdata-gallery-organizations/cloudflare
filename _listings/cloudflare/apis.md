@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18929-clou
 x-kinRank: "9"
 x-alexaRank: "1685"
 tags: CloudFlare
-created: "2018-05-25"
-modified: "2018-05-25"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/cloudflare/master/_listings/cloudflare/apis.md
 specificationVersion: "0.14"
 apis:
@@ -1094,6 +1094,8 @@ x-common:
   url: https://twitter.com/CloudFlare
 - type: x-website
   url: https://www.cloudflare.com
+- type: x-website
+  url: http://cloudflare.com
 include: []
 maintainers:
 - FN: Kin Lane
